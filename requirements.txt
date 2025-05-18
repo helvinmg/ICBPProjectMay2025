@@ -1,0 +1,9 @@
+streamlit
+torch==2.7.0+cu128
+torchvision==0.22.0+cu128
+Pillow
+numpy
+opencv-python
+basicsr
+pyngrok
+realesrgan

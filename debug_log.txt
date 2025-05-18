@@ -1,0 +1,410 @@
+2025-05-18 01:32:49 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+2025-05-18 01:32:49 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+2025-05-18 01:32:49 - DEBUG: num_steps = 500
+2025-05-18 01:32:49 - DEBUG: style_weight = 10000000.0
+2025-05-18 01:32:49 - DEBUG: content_weight = 1
+2025-05-18 01:39:10 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 01:39:10 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 01:39:10 - DEBUG: num_steps = 550
+
+2025-05-18 01:39:10 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 01:39:10 - DEBUG: content_weight = 2
+
+2025-05-18 01:50:50 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 01:50:50 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 01:50:50 - DEBUG: num_steps = 400
+
+2025-05-18 01:50:50 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 01:50:50 - DEBUG: content_weight = 1
+
+2025-05-18 01:53:43 - DEBUG: type(content) = <class 'PIL.PngImagePlugin.PngImageFile'>
+
+2025-05-18 01:53:43 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 01:53:43 - DEBUG: num_steps = 500
+
+2025-05-18 01:53:43 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 01:53:43 - DEBUG: content_weight = 1
+
+2025-05-18 02:00:00 - DEBUG: type(content) = <class 'PIL.PngImagePlugin.PngImageFile'>
+
+2025-05-18 02:00:00 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 02:00:00 - DEBUG: num_steps = 500
+
+2025-05-18 02:00:00 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 02:00:00 - DEBUG: content_weight = 1
+
+2025-05-18 02:00:25 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 02:00:25 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 02:00:25 - DEBUG: num_steps = 500
+
+2025-05-18 02:00:25 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 02:00:25 - DEBUG: content_weight = 1
+
+2025-05-18 08:24:40 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:24:40 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:24:40 - DEBUG: num_steps = 500
+
+2025-05-18 08:24:40 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 08:24:40 - DEBUG: content_weight = 1
+
+2025-05-18 08:31:14 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:31:14 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:31:14 - DEBUG: num_steps = 500
+
+2025-05-18 08:31:14 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 08:31:14 - DEBUG: content_weight = 1
+
+Files in output dir after saving stylized image: ['styled_1747537274.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg']
+Files in output dir after upscaling: ['styled_1747537274.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg']
+2025-05-18 08:46:22 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:46:22 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:46:22 - DEBUG: num_steps = 500
+
+2025-05-18 08:46:22 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 08:46:22 - DEBUG: content_weight = 1
+
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747538182.jpg
+Files in output dir after saving stylized image: ['styled_1747538182.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg']
+Files in output dir after upscaling: ['styled_1747538182.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg']
+2025-05-18 08:49:14 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:49:14 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:49:14 - DEBUG: num_steps = 500
+
+2025-05-18 08:49:14 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 08:49:14 - DEBUG: content_weight = 1
+
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747538354.jpg
+Files in output dir after saving stylized image: ['styled_1747538354.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg']
+Files in output dir after upscaling: ['styled_1747538354.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg']
+2025-05-18 08:55:24 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:55:24 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 08:55:24 - DEBUG: num_steps = 500
+
+2025-05-18 08:55:24 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 08:55:24 - DEBUG: content_weight = 1
+
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747538724.jpg
+Files in output dir after saving stylized image: ['styled_1747538724.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg']
+Files in output dir after upscaling: ['styled_1747538724.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg']
+Original styled image size: (512, 512)
+Upscaled image size: (512, 512)
+2025-05-18 09:23:03 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 09:23:03 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 09:23:03 - DEBUG: num_steps = 500
+
+2025-05-18 09:23:03 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 09:23:03 - DEBUG: content_weight = 1
+
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747540383.jpg
+Files in output dir after saving stylized image: ['styled_1747540383.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg']
+Files in output dir after upscaling: ['styled_1747540383.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg']
+2025-05-18 09:27:01 - DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 09:27:01 - DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+
+2025-05-18 09:27:01 - DEBUG: num_steps = 500
+
+2025-05-18 09:27:01 - DEBUG: style_weight = 10000000.0
+
+2025-05-18 09:27:01 - DEBUG: content_weight = 1
+
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747540621.jpg
+Files in output dir after saving stylized image: ['styled_1747540383.jpg', 'styled_1747540621.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg']
+Files in output dir after upscaling: ['styled_1747540383.jpg', 'styled_1747540621.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg']
+Original styled image size: (512, 512)
+Upscaled image size: (512, 512)
+
+2025-05-18 09:36:54
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747541214.jpg
+Files in output dir after saving stylized image: ['styled_1747540383.jpg', 'styled_1747541214.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg', 'upscaled_1747540621.jpg']
+Files in output dir after upscaling: ['styled_1747540383.jpg', 'styled_1747541214.jpg', 'upscaled_1747513250.jpg', 'upscaled_1747513423.jpg', 'upscaled_1747536880.jpg', 'upscaled_1747537274.jpg', 'upscaled_1747538182.jpg', 'upscaled_1747538354.jpg', 'upscaled_1747538724.jpg', 'upscaled_1747540621.jpg']
+Styled image file exists after upscaling: True
+Original styled image size: (512, 512)
+Upscaled image size: (512, 512)
+
+2025-05-18 09:41:42
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled_1747541502.jpg
+Files in output dir after saving stylized image: ['styled_1747541502.jpg']
+Files in output dir after upscaling: ['styled_1747541502.jpg']
+Styled image file exists after upscaling: False
+Original styled image size: (512, 512)
+Upscaled image size: (512, 512)
+
+2025-05-18 09:46:49
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747541809.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg']
+
+2025-05-18 09:58:16
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747542496.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg']
+
+2025-05-18 10:03:13
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747542793.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg']
+Files in upscaled dir after upscaling: []
+
+2025-05-18 10:05:40
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747542940.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg']
+Files in upscaled dir after upscaling: []
+Styled image file exists after upscaling: True
+
+2025-05-18 10:08:18
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747543098.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg']
+Files in upscaled dir after upscaling: []
+Styled image file exists after upscaling: True
+
+2025-05-18 10:12:40
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747543360.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg']
+Files in upscaled dir after upscaling: []
+
+2025-05-18 10:17:07
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747543627.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg', 'styled_1747543627.jpg']
+
+2025-05-18 10:20:51
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 400
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747543851.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg', 'styled_1747543627.jpg', 'styled_1747543851.jpg']
+Files in upscaled dir after upscaling: []
+
+2025-05-18 10:22:37
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747543957.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg', 'styled_1747543627.jpg', 'styled_1747543851.jpg', 'styled_1747543957.jpg']
+Files in upscaled dir after upscaling: []
+
+2025-05-18 10:35:24
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747544724.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg', 'styled_1747543627.jpg', 'styled_1747543851.jpg', 'styled_1747543957.jpg', 'styled_1747544724.jpg']
+
+2025-05-18 10:41:53
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747545113.jpg
+Files in styled dir after saving stylized image: ['styled_1747541809.jpg', 'styled_1747542496.jpg', 'styled_1747542793.jpg', 'styled_1747542940.jpg', 'styled_1747543098.jpg', 'styled_1747543360.jpg', 'styled_1747543627.jpg', 'styled_1747543851.jpg', 'styled_1747543957.jpg', 'styled_1747544724.jpg', 'styled_1747545113.jpg']
+Files in upscaled dir after upscaling: ['styled_1747545113_upscaled.png']
+Original styled image size: (512, 512)
+Upscaled image size: (2048, 2048)
+
+2025-05-18 10:58:56
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 550
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+
+2025-05-18 11:00:10
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747546210.jpg
+Files in styled dir after saving stylized image: ['styled_1747546210.jpg']
+Failed to initialize RealESRGANer model: 'NoneType' object has no attribute 'load_state_dict'
+Files in upscaled dir after upscaling: []
+
+2025-05-18 11:05:56
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747546556.jpg
+Files in styled dir after saving stylized image: ['styled_1747546210.jpg', 'styled_1747546556.jpg']
+Files in upscaled dir after upscaling: ['styled_1747546556_upscaled.png']
+Original styled image size: (720, 960)
+Upscaled image size: (2880, 3840)
+
+2025-05-18 11:09:23
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+
+2025-05-18 11:10:07
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747546807.jpg
+Files in styled dir after saving stylized image: ['styled_1747546210.jpg', 'styled_1747546556.jpg', 'styled_1747546807.jpg']
+Files in upscaled dir after upscaling: ['styled_1747546556_upscaled.png', 'styled_1747546807_upscaled.png']
+Original styled image size: (720, 960)
+Upscaled image size: (2880, 3840)
+
+2025-05-18 11:14:45
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+
+2025-05-18 11:17:09
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747547229.jpg
+Files in styled dir after saving stylized image: ['styled_1747546210.jpg', 'styled_1747546556.jpg', 'styled_1747546807.jpg', 'styled_1747547229.jpg']
+Files in upscaled dir after upscaling: ['styled_1747546556_upscaled.png', 'styled_1747546807_upscaled.png', 'styled_1747547229_upscaled.png']
+Original styled image size: (512, 512)
+Upscaled image size: (2048, 2048)
+
+2025-05-18 11:23:33
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 650
+DEBUG: style_weight = 10000000.099999998
+DEBUG: content_weight = 2
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747547613.jpg
+Files in styled dir after saving stylized image: ['styled_1747546210.jpg', 'styled_1747546556.jpg', 'styled_1747546807.jpg', 'styled_1747547229.jpg', 'styled_1747547613.jpg']
+Files in upscaled dir after upscaling: ['styled_1747546556_upscaled.png', 'styled_1747546807_upscaled.png', 'styled_1747547229_upscaled.png', 'styled_1747547613_upscaled.png']
+Original styled image size: (512, 512)
+Upscaled image size: (2048, 2048)
+
+2025-05-18 11:34:02
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747548242.jpg
+Files in styled dir after saving stylized image: ['styled_1747548242.jpg']
+Files in upscaled dir after upscaling: ['styled_1747548242_upscaled.png']
+Original styled image size: (512, 512)
+Upscaled image size: (2048, 2048)
+
+2025-05-18 13:48:24
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747556304.jpg
+Files in styled dir after saving stylized image: ['styled_1747548242.jpg', 'styled_1747556304.jpg']
+Files in upscaled dir after upscaling: ['styled_1747548242_upscaled.png', 'styled_1747556304_upscaled_A1_150dpi.png']
+Original styled image size: (720, 960)
+Upscaled image size: (3510, 4965)
+
+2025-05-18 15:12:12
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747561332.jpg
+Files in styled dir after saving stylized image: ['styled_1747561332.jpg']
+Files in upscaled dir after upscaling: ['styled_1747561332_upscaled_A1_150dpi.png']
+Original styled image size: (720, 960)
+Upscaled image size: (3510, 4965)
+
+2025-05-18 15:17:10
+DEBUG: type(content) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: type(style) = <class 'PIL.JpegImagePlugin.JpegImageFile'>
+DEBUG: num_steps = 500
+DEBUG: style_weight = 10000000.0
+DEBUG: content_weight = 1
+Styled image saved at absolute path: C:\Users\helvi\Downloads\ICBP Project-20250517T183947Z-1-001\ICBP Project\outputs\styled\styled_1747561630.jpg
+Files in styled dir after saving stylized image: ['styled_1747561332.jpg', 'styled_1747561630.jpg']
+Files in upscaled dir after upscaling: ['styled_1747561332_upscaled_A1_150dpi.png', 'styled_1747561630_upscaled_A1_150dpi.png']
+Original styled image size: (720, 960)
+Upscaled image size: (3510, 4965)
