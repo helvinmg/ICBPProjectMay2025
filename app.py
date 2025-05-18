@@ -158,8 +158,14 @@ if content_file and style_file:
                 log_file.write(f"DEBUG: num_steps = {num_steps}\n")
                 log_file.write(f"DEBUG: style_weight = {style_weight}\n")
                 log_file.write(f"DEBUG: content_weight = {content_weight}\n")
-            c_img = load_image(content, size=content.size[::-1])  # Use original size (width, height)
-            s_img = load_image(style)
+            print("content.size",content.size,"style.size",style.size,content.size==style.size)
+            if content.size==style.size:
+                c_img = load_image(content, size=content.size[::-1])  # Use original size (width, height)
+                s_img = load_image(style)
+            else:
+                st.warning("If you want to preserve the same resolution as the content image, please use a style image of the same size. Otherwise, the content image will be resized to a fixed size of 512.")
+                c_img = load_image(content, size=(512, 512))
+                s_img = load_image(style, size=(512, 512))
             output = run_style_transfer(c_img, s_img, num_steps=num_steps, style_weight=style_weight, content_weight=content_weight)
             result_img = im_convert(output)
             result_filename = f"styled_{timestamp}.jpg"
