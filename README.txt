@@ -10,7 +10,7 @@ Prerequisites:
 - Git
 
 Setup:
-1. Download project folder from onedrive and extract
+1. Download project folder and extract
 2. open the folder in VSCode
 3. Install required Python packages using: pip install -r requirements.txt
 4. Download Real-ESRGAN pretrained weights and place them in Real-ESRGAN/weights/ directory.
@@ -35,7 +35,7 @@ import threading
 from pyngrok import ngrok
 
 # 5. Setup ngrok auth token (replace with your actual token)
-ngrok.set_auth_token("2xE7ThNok4DjyDKnis6I5ELZfTo_4ZNBgGczTw23PEu9UBhNo")
+ngrok.set_auth_token("token")
 
 # 🔧 Fix torchvision import issue in basicsr
 !sed -i 's/from torchvision.transforms.functional_tensor import rgb_to_grayscale/from torchvision.transforms.functional import rgb_to_grayscale/' /usr/local/lib/python3.11/dist-packages/basicsr/data/degradations.py
